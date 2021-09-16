@@ -3,7 +3,7 @@
 int main(){
     int schrikkeljaren;
     int jaar_nu= 2021;
-    int jaar_geboren=1953;
+    int jaar_geboren=2003;
     int leeftijd;
     int waarde;
     int test=1;
