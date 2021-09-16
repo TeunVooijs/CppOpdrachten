@@ -1,35 +1,15 @@
 #include "Headers/includes.h"
 
 int main(){
-    // int geboorte_jaar, geboorte_maand, geboorte_dag_getal, leeftijd_jaren, 
-    // leeftijd_maanden, leeftijd_dag;
-    // int dit_jaar=2020, deze_maand=9, deze_dag=9;
-    // cout << "Geef geboorte jaar: ";
-    // cin >> geboorte_jaar;
-    // cout << "Geef geboorte maand: ";
-    // cin >> geboorte_maand;
-    // cout << "Geef geboorte dag: ";
-    // cin >> geboorte_dag_getal;
-
-    // leeftijd_jaren=dit_jaar-geboorte_jaar;
-    // cout << leeftijd_jaren;
-
-
-    // if (geboorte_maand>deze_maand){
-    //     leeftijd_maanden = geboorte_maand-deze_maand;
-    //     leeftijd_jaren+=1;
-    // }
-    // else if(geboorte_maand==deze_maand){
-    //     if (deze_dag<geboorte_dag_getal){
-    //         leeftijd_jaren+=1
-    //     }
-    // }
-    // else if(geboorte_maand<deze_maand){
-    //     leeftijd_maanden = deze_maand-geboorte_maand;
-    // }
-     
-    // cout << leeftijd_jaren << geboorte_maand << geboorte_dag_getal;
+    int geb_jaar, geb_maand, geb_dag;
+    int jaar_nu=2021, maand_nu=9, dag_nu=27;
     
+
+
+
+
+
+
     abc();
     
     return 0;
