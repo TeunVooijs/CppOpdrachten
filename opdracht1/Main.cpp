@@ -15,7 +15,7 @@ int main(){
     char controle_letter, controle_letter_persoon;
     char dag_geboren_pc, dag_geboren;
     
-    int a,b,c;
+    int a,b,c; //waardes abc formule
     double d;
     double x1,x2;
     int goed_antwoord=0;
